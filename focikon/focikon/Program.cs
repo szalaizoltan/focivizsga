@@ -10,7 +10,7 @@ namespace focikon
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello focikon!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
