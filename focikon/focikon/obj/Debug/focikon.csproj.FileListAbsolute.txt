@@ -1,0 +1,7 @@
+C:\Users\SzalaiZ\Documents\GitHub\focivizsga\focikon\focikon\bin\Debug\focikon.exe.config
+C:\Users\SzalaiZ\Documents\GitHub\focivizsga\focikon\focikon\bin\Debug\focikon.exe
+C:\Users\SzalaiZ\Documents\GitHub\focivizsga\focikon\focikon\bin\Debug\focikon.pdb
+C:\Users\SzalaiZ\Documents\GitHub\focivizsga\focikon\focikon\obj\Debug\focikon.csproj.AssemblyReference.cache
+C:\Users\SzalaiZ\Documents\GitHub\focivizsga\focikon\focikon\obj\Debug\focikon.csproj.CoreCompileInputs.cache
+C:\Users\SzalaiZ\Documents\GitHub\focivizsga\focikon\focikon\obj\Debug\focikon.exe
+C:\Users\SzalaiZ\Documents\GitHub\focivizsga\focikon\focikon\obj\Debug\focikon.pdb
