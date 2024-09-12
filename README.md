@@ -1,0 +1,2 @@
+# focivizsga
+Vizsgafeladat foci témakörben
